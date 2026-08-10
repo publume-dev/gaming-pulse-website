@@ -1,0 +1,29 @@
+{
+  "url": "https://gaming-pulse.publume.dev/",
+  "name": "Gaming Pulse",
+  "description": "A playful bilingual daily briefing on game releases, industry moves, and the player impact behind them.",
+  "tagline": "A daily pulse on games worth understanding.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Play Desk",
+  "authorName": "Gaming Pulse",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
